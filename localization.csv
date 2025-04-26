@@ -1,0 +1,36 @@
+Key,Description,Standard,EN
+MENU.Flowchart.1,,Начать игру,Start game
+MENU.Flowchart.3,,Сменить язык,Switch language
+MENU.Flowchart.34,,Выйти из игры,Quit game
+MENU.Flowchart.5,,Русский,Russian
+MENU.Flowchart.6,,English,English
+SAY.Flowchart.38.Ригель,,"Арген, я тебя так рада видеть.","Argen, I'm so glad to see you."
+SAY.Flowchart.41.Арген,,Давно не виделись. Я скучал по тебе.,Long time no see. I missed you.
+SAY.Flowchart.43.Автор,,Арген прижал к себе Ригель и нежно провёл пальцами по ее спине. ,Argen held Rigel close and gently ran his fingers down her back.
+SAY.Flowchart.45.Автор,,"Девушка коснулась его губ поцелуем, пытаясь в своей памяти запечатлеть этот момент.","The girl touched his lips with a kiss, trying to capture this moment in her memory."
+SAY.Flowchart.47.Арген,,Знаешь…  Я давно хотел тебе сказать кое-что…,You know... I've wanted to tell you something for a long time...
+SAY.Flowchart.50.Ригель,,Я тоже…,Me too...
+SAY.Flowchart.53.Арген,,Я…,I...
+SAY.Flowchart.55.Автор,,Внезапно Рык монстра тут же оглушил влюбленных.,"Suddenly, a monster's roar immediately stunned the lovers."
+SAY.Flowchart.57.Автор,,Ригель вздрогнула и спряталась за спину Аргена.,Rigel flinched and hid behind Argen's back.
+SAY.Flowchart.56.Автор,,Арген схватил ружье и прицелился. ,Argen grabbed his rifle and took aim.
+SAY.Flowchart.59.Ригель,,Боже мой!,Oh my God!
+SAY.Flowchart.61.Автор,,Руки дрожали и мешали сосредоточиться.,His hands were shaking and making it difficult to concentrate.
+SAY.Flowchart.64.Автор,,Оглушительный выстрел заставил Ригель прикрыть уши в испуге.,The deafening shot made Rigel cover her ears in fear.
+SAY.Flowchart.63.Автор,,"Пороховой дым заполнил комнату, но вскоре развеялся. ","Gunpowder smoke filled the room, but soon dissipated."
+SAY.Flowchart.62.Автор,,"Поверженный монстр лежал у их ног, истекая кровью.","The defeated monster lay at their feet, bleeding."
+SAY.Flowchart.66.Ригель,,А разве этот диалог был в {size=70}{b}игре{/b}{/size}?,Was this dialogue in the {size=70}{b}game{/b}{/size}
+SAY.Flowchart.69.Арген,,"Боюсь, что нет Оо",I'm afraid not Aahhhh
+SAY.Flowchart.72.Ригель,,Хочу на свежий воздух.,I want some fresh air.
+SAY.Flowchart.76.Автор,,Феникс увидел друзей и тут же обеспокоенно их оглядел. ,Phoenix saw his friends and immediately looked them over with concern.
+SAY.Flowchart.78.Феникс,,Вы целы? Что за выстрелы я {color=green}слышал{/color}?,Are you okay? What shots did I {color=green}hear{/color}
+SAY.Flowchart.81.Арген,,Я разнес всех этих монстров в кучу!,I blasted all those monsters to pieces!
+SAY.Flowchart.84.Ригель,,"Но Арген, он же был всего один…","But Argen, there was only one..."
+SAY.Flowchart.87.Арген,,"Наверное ты не заметила, ты ведь спряталась за моей спиной.","You probably didn't notice, since you were hiding behind my back."
+SAY.Flowchart.90.Феникс,,"Пытаешься как обычно произвести впечатление, Арген. Ха-ха.","Trying to impress as usual, Argen. Ha-ha."
+SAY.Flowchart.93.Арген,,А ты не изменился. Мог бы подыграть.,You haven't changed. You could have played along.
+SAY.Flowchart.95.Автор,,Старые добрые друзья посмотрели друг на друга и рассмеялись. ,The good old friends looked at each other and laughed.
+CHARACTER.Феникс,,Феникс,Phoenix
+CHARACTER.Арген,,Арген,Argen
+CHARACTER.Автор,,Автор,Author
+CHARACTER.Ригель,,Ригель,Rigel

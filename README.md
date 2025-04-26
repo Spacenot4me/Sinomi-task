@@ -1,1 +1,0 @@
-# Sinomi-task
